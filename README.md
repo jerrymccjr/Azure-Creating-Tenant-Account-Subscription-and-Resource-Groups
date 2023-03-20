@@ -1,7 +1,6 @@
 <h1>Azure: Creating Tenant Account, Subscription and Resource Groups</h1>
 This tutorial outlines the general account structure of Microsoft Azure and how to create a Tenant (Organization) account, Subscription and Resource Groups.<br />
 
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -17,14 +16,13 @@ This tutorial outlines the general account structure of Microsoft Azure and how 
 - Computer with Internet connection
 - Credit card (required even for free Azure credits)
 
-
 <h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/ljTjwHe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before we dive into specifics, the graphic above illustrates the Tenant/Subscription/Resource Group structure within Microsoft Azure. A Tenant account in  Azure is your organization's master account encompassing all services and billing. You, as a Tenant, can have multiple Subscriptions, which is primarily a way to segregate billing into, for example, different departments. Within each Subscription, multiple Resource Groups can be created to house the various Azure services your organization may require.
+Before we dive into specifics, the graphic above illustrates the Tenant/Subscription/Resource Group structure within Microsoft Azure. A Tenant account in  Azure is your organization's master account encompassing all services and billing. A Tenant can have multiple Subscriptions, which is primarily a way to segregate billing into, for example, different departments. Within each Subscription, multiple Resource Groups can be created to house or compartmentalize the various Azure services your organization may require.
 </p>
 <br />
 
