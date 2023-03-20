@@ -24,7 +24,7 @@ This tutorial outlines the general account structure of Microsoft Azure and how 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A Tenant account in Microsoft Azure is your organization's master account encompassing all services and billing. You, as a Tenant, can have muliple Subscriptions, which is primarily a way to segregate billing into departments, for example. Within each Subscription, multiple Resource Groups can be created to house the various Azure services your organization may require.
 </p>
 <br />
 
