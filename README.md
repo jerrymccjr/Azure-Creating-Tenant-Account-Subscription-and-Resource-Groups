@@ -14,11 +14,9 @@ This tutorial outlines the general account structure of Microsoft Azure and how 
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Computer with Internet connection
+- Credit card (required even for free Azure credits)
+
 
 <h2>Installation Steps</h2>
 
