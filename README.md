@@ -10,7 +10,7 @@ This tutorial outlines the general account structure of Microsoft Azure and how 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- MacOS Monterey v12.6.1 on Macbook M1 Pro</b>
 
 <h2>List of Prerequisites</h2>
 
