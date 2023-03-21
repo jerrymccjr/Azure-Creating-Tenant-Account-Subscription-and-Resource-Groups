@@ -94,7 +94,7 @@ On our "Azure subscription 1" page, we can find just about anything about this S
 <img src="https://i.imgur.com/rft57g3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that we have a Tenant account and an active Subscription, we need a Resource Group within which we will later add the Resource we want to actually use (for the purposes of this lab, a Storage Account). To create a Resource Group, search or click Resource Groups.
+Now that we have a Tenant account and an active Subscription, we need a Resource Group within which we will later add the Resource we want to actually use (for the purposes of this lab, a Storage Account). A Resource Group is a collection of Resources that share the same lifecycle, permissions and policies. To create a Resource Group, search or click Resource Groups.
 </p>
 <br />
 
