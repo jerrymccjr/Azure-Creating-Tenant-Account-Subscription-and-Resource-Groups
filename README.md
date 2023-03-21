@@ -3,9 +3,7 @@ This tutorial outlines the general account structure of Microsoft Azure and how 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Microsoft Azure (Virtual Machines/Compute) accessed via the web
 
 <h2>Operating Systems Used </h2>
 
