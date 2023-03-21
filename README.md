@@ -36,15 +36,15 @@ Use a browser to search for something like "free azure account" and look for the
 <img src="https://i.imgur.com/hSPnVzW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A note about the $200 free Azure credits. If it free in Azure to create a Tenant account, Subscriptions and Resource Groups. However, when you initiate a service that puts resouces to work, such as a storage account or virtual environment, charges begin to accrue based on the type of magnitude charged by Azure. The purpose of this turorial is to walk through the steps in a lab environment and then, once done, delete any resources as quickly as possible to minimize charges against our $200 credit. Furthermore, the credit is good for 30 days. After 30 days you can "pay as you go" for resources used or make a new Tenant account with a new email and credit card.
+A note about the $200 free Azure credits. It is free in Azure to create a Tenant account, Subscriptions and Resource Groups. However, when you initiate a service that puts resources to work, such as a storage account or virtual environment, charges begin to accrue based on the type and amount of resources used charged by Azure. The purpose of this turorial is to walk through the steps in a lab environment and then, once done, delete any resources as quickly as possible to minimize charges against our $200 credit. Furthermore, the credit is good for 30 days. After 30 days you can "pay as you go" for resources used or make a new Tenant account with a new email and credit card.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6rsTPDd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Sign in using your Microsoft account, create a new Microsoft account, or other sign in options.
 </p>
 <br />
 
