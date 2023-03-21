@@ -68,7 +68,17 @@ Your account is now set up. Click the link to go to the Azure portal at portal.a
 <img src="https://i.imgur.com/C949OpZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Personally I prefer the Home page vs the Quickstart page. If you're like me, click Home. On the Home page you will see the link back to the Quickstart page.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Or7TCI8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the Home page there are several ways to navigate. Personally I gravitate to a quick search, but there are a variety of ways to find what you need. Explore!
+  
+  Note here that when we created our Tenant, a Subscription account was created automatically (Azure subscription 1). Let's click this link to verify and explore our Subscription.
 </p>
 <br />
 
@@ -76,31 +86,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On our "Azure subscription 1" page, we can find just about anything about this Subscription on the menu along the left side, including activity, access, security, costs and billing, settings and support. From this page we can also rename or cancel this Subscription. Although we could simply search from this page for our next task (to create a Resource Group), let's click Home.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rft57g3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that we have a Tenant account and an active Subscription, we need a Resource Group within which we will later add the Resource we want to actually use (for the purposes of this lab, a Storage Account). To create a Resource Group, search or click Resource Groups.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ouYix5D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Resource Groups page, click Create Resource Group.
 </p>
 <br />
 
