@@ -83,7 +83,7 @@ On the Home page there are several ways to navigate. Personally I gravitate to a
 <br />
 
 <p>
-<img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WTj6OwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On our "Azure subscription 1" page, we can find just about anything about this Subscription on the menu along the left side, including activity, access, security, costs and billing, settings and support. From this page we can also rename or cancel this Subscription. Although we could simply search from this page for our next task (to create a Resource Group), let's click Home.
