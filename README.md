@@ -52,7 +52,7 @@ Sign in using your Microsoft account, create a new Microsoft account, or other s
 <img src="https://i.imgur.com/f3FijvS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Fill out the Profile section.
+Fill out the Profile section. The second part of this section will require a credit card.
 </p>
 <br />
 
