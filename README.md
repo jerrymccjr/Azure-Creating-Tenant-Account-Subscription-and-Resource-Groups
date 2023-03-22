@@ -115,10 +115,17 @@ From the Create a Resource Group page: 1) select the right Subscription, 2) name
 <br />
 
 <p>
-<img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JoxyTPv.png" height="80%" width="80%" alt="Resource Group created"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resource Group created. Click the link for details of this Resource Group.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/JoxyTPv.png" height="80%" width="80%" alt="Resource Group created"/>
+</p>
+<p>
+Resource Group created. Click the link the details of this Resource Group.
+</p>
+<br />
