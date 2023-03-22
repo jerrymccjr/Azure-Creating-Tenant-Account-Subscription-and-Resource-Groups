@@ -1,5 +1,5 @@
 <h1>Lab 1A: Creating Tenant Account, Subscription and Resource Groups</h1>
-This tutorial outlines the general account structure of Microsoft Azure and how to create a Tenant (Organization) account, Subscription and Resource Groups.<br />
+This tutorial outlines the general account structure of Microsoft Azure and how to create a Tenant (Organization) account, Subscription and Resource Groups. Importantly, labs 1 throuth 7 will be conducted using virtual environments within Azure, so this Lab 1A is foundational as we progress through the other labs.<br />
 
 <h2>Environments and Technologies Used</h2>
 
