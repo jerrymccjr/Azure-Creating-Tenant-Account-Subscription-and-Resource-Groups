@@ -17,7 +17,7 @@ This tutorial outlines the general account structure of Microsoft Azure and how 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/ljTjwHe.png" height="80%" width="80%" alt="Lab 1A: Azure Tenant Subscription and Resource Group"/>
+<img src="https://i.imgur.com/unyXSfO.png" height="80%" width="80%" alt="Lab 1A: Azure Structure Overview"/>
 </p>
 <p>
 Before we dive into specifics, the graphic above illustrates the Tenant/Subscription/Resource Group structure within Microsoft Azure. A Tenant account in  Azure is your organization's master account encompassing all services and billing. A Tenant can have multiple Subscriptions, which is primarily a way to segregate billing into, for example, different departments. Within each Subscription, multiple Resource Groups can be created to house or compartmentalize the various Azure services your organization may require.
