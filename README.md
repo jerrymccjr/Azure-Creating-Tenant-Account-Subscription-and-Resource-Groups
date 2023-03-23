@@ -28,7 +28,7 @@ Before we dive into specifics, the graphic above illustrates the Tenant/Subscrip
 <img src="https://i.imgur.com/XZlTglI.png" height="80%" width="80%" alt="Lab 1A: Azure search free account"/>
 </p>
 <p>
-Use a browser to search for something like "free azure account" and look for the right link. 
+Now, let's set up a free Azure acccount. Use a browser to search for something like "free azure account" and look for the right link. 
 </p>
 <br />
 
