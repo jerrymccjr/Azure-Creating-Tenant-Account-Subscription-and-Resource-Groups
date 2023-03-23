@@ -123,9 +123,11 @@ Resource Group created. Click the link for details of this Resource Group.
 <br />
 
 <p>
-<img src="https://i.imgur.com/JoxyTPv.png" height="80%" width="80%" alt="Resource Group created"/>
+<img src="https://i.imgur.com/zWhTexq.png" height="80%" width="80%" alt="Resource Group detail"/>
 </p>
 <p>
-Resource Group created. Click the link the details of this Resource Group.
+The Resource Groups page allows you to select the Resource Group you wish to work with, then view and configure parameters and settings.
+  
+  This concludes the lab. With our Tenant account, Subscription and Resource Group in place, we are now ready to add Resources in the next lab.
 </p>
 <br />
